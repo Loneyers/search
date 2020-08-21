@@ -3,11 +3,10 @@
 
 ## config file,config.json
 
-```json
-{
-  "email": "", // fofa email.
-  "key": "" //fofa key
-}
+```yaml
+fofa:
+  email: email
+  key: key
 
 ```
 

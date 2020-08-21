@@ -1,7 +1,7 @@
 # fofascan
 
 
-## config file,config.json
+## config.yaml
 
 ```yaml
 fofa:

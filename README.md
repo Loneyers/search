@@ -1,4 +1,3 @@
-# fofascan
 
 
 ## config.yaml

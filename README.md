@@ -7,6 +7,9 @@
 fofa:
   email: email
   key: key
+zoomeye:
+  email:email
+  password:password
 
 ```
 ## install

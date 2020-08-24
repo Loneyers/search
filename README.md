@@ -9,10 +9,12 @@ fofa:
   key: key
 
 ```
-
+## install
+git clone https://github.com/Loneyers/search
+go build 
 ## use
 
-./fofascan-darwin -q app="solr" -page 1
+./search -engine fofa -query app:solr
 
 output
 
@@ -49,9 +51,6 @@ https://13.81.247.76:8983
 .......
 ```
 
-output file:
-
-> result file: 2020-08-20-16-31-29.txt
 
 
 
